@@ -1,6 +1,15 @@
 # YouTube-Live-Subscriber-Count
 YouTube Live Subscriber Count, fetch YouTube analytics API from Google developers console and show real time live YouTube subscribe count.
 
+Table of Content
+----------------
+* Demo
+* Overview
+* Tech Used
+* Features
+* Steps/Process
+* Future scope of project
+
 Demo
 -----
 ![YouTube Live Subs  Count  (1)](https://user-images.githubusercontent.com/41515202/94376142-515f6480-0136-11eb-8cd7-f8b50f00fa40.png)
@@ -16,8 +25,8 @@ Demo
 ![YouTube Live Subs  Count  (6)](https://user-images.githubusercontent.com/41515202/94376150-5cb29000-0136-11eb-9111-de2ef9c6f55d.png)
 
 
-What is it ??
---------------
+Overview / What is it ??
+-------------------------
 allows you to see the subscriber count of any YouTube user in realtime
 shows the live subscriber count of any user on YouTube as accurately as possible
 The subscriber count, view count, video count and comment count are all taken directly from Google's infrastructure via the Analytics API
@@ -59,3 +68,9 @@ Steps/ Process
 * Make a new PHP file on your web server and use the following code, replacing YOUR_CHANNEL_ID and API_KEY with your channel's ID (it's the code at the end of your channel's URL) and the API Key you got in step 7.
 RESULT/FEAURES
 
+
+Future scope of project
+-----------------------
+Can be more optimized & effient in loading pages quickly
+
+can be designed more better with up-coming new technologies.
